@@ -14,6 +14,6 @@ Hello and welcome to my github repository for the Introduction to Image Processi
 pip install -r requirements.txt
 ```
 
-**Note**: For your maximum immersion in this project series, I recommend that you use your personal images as input data so that you can explore the provided code to its maximum poptential!
+**Note**: For your maximum immersion in this project series, I recommend that you use your personal images as input data so that you can explore the provided code to its maximum potential!
 Feel free to tag me in my LinkedIn Profile: https://www.linkedin.com/in/van-julius-leander-lopez/ if ever you want to share your results!
 Hit follow to my Medium account: https://medium.com/@vjlglopez for more exciting Data Science related content in the future!
