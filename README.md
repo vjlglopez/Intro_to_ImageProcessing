@@ -1,4 +1,4 @@
-# Intro_to_ImageProcessing
+# Introduction to Image Processing
 
 Hello and welcome to my github repository for the Introduction to Image Processing Blog Series. If you want to replicate the projects that we worked on, make sure to follow the steps below:
 
